@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uredni-deska verze="0.1">
+<urad>
+<nazev>Obec Lhota</nazev>
+<nuts4>Okres Město</nuts4>
+<adresa></adresa>
+<www></www>
+</urad>
+<vyvesky>
+<vyveska stav="aktivni|smazane|archiv" nazev="Správní rozhodnutí - vyhláška - územní plán obce" vyveseno-od="2015-05-02" vyveseno-do="2015-06-01" vydal="Obec Lhota" url="http://obec-lhota.cz/deska/spravni-rozhodnuti-uz-plan-0515">
+<!-- posledni aktualizace?  -->
+<prilohy>
+<priloha typ="text/plain" nazev="rozhodnuti.txt"></priloha>
+<priloha typ="application/pdf" nazev="rozhodnuti.txt" url=""></priloha>
+</prilohy>
+</vyveska>
+</vyvesky>
+</uredni-deska>
