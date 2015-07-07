@@ -1,3 +1,4 @@
+# Rozpracované / nekompletní
 # Formát elektronických úředních desek
 
 Návrhy technického řešení poskytování dat standardizovaných úředních desek (formát dat, skruktura).
