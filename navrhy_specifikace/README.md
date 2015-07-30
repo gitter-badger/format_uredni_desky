@@ -1,0 +1,1 @@
+# Ukázky návrhů diksutovaných formátů
